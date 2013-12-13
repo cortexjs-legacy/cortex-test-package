@@ -7,9 +7,7 @@
         "name": "Kael",
         "email": "i@kael.me"
     },
-    "keywords": [
-        "cortex"
-    ],
+    "keywords": [],
     "repository": {
         "type": "git",
         "url": "git@github.com:cortexjs/cortex-test-package.git"
@@ -26,8 +24,6 @@
     "engines": {
         "node": ">= 0.6.0"
     },
-    "keywords": [],
-    "main": "index.js",
     "cortex": {
         "entries": [
             "entries/a.js"
