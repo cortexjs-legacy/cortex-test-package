@@ -2,7 +2,7 @@
 
 var aa = require('./lib/aa');
 var bb = require('./lib/bb');
-var c = require('c');
+// var c = require('c');
 
 exports.index = function () {
     require.async('./entries/b', callback);
