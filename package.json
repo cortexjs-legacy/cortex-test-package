@@ -31,6 +31,9 @@
     "cortex": {
         "entries": [
             "entries/a.js"
-        ]
+        ],
+        "directories": {
+          "css": "css"
+        }
     }
 }
